@@ -1,11 +1,11 @@
 ---
-date: 2020-20-06 12:26:40
+date: 2020-06-20 12:26:40
 layout: post
 title: Valorant OST - Loading [Main Theme]
 subtitle: 
 description: 
-image: 
-optimized_image: 
+image: https://img.youtube.com/vi/6UzPZpQmbwg/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/6UzPZpQmbwg/mqdefault.jpg
 category: music
 tags: music
   - wwe

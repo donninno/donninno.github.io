@@ -1,11 +1,11 @@
 ---
-date: 2020-23-06 12:00:00
+date: 2020-06-23 12:26:40
 layout: post
-title: [8D Audio] Valorant OST - Loading [Main Theme]
+title: 8D Audio Valorant OST - Loading [Main Theme] 
 subtitle: 
 description: 
-image: 
-optimized_image: 
+image: https://img.youtube.com/vi/7pHOl6e9Z-o/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/7pHOl6e9Z-o/maxresdefault.jpg
 category: music
 tags: music
   - wwe
