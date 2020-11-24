@@ -7,7 +7,8 @@ description:
 image: https://img.youtube.com/vi/6UzPZpQmbwg/mqdefault.jpg
 optimized_image: https://img.youtube.com/vi/6UzPZpQmbwg/mqdefault.jpg
 category: music
-tags: music
+tags: 
+  - music
   - wwe
 author: Schripp-Music
 ---

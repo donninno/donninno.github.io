@@ -7,7 +7,8 @@ description:
 image: https://img.youtube.com/vi/7pHOl6e9Z-o/maxresdefault.jpg
 optimized_image: https://img.youtube.com/vi/7pHOl6e9Z-o/maxresdefault.jpg
 category: music
-tags: music
+tags: 
+  - music
   - wwe
   - 8D Audio
 author: Schripp-Music
