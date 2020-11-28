@@ -9,7 +9,6 @@ optimized_image: https://img.youtube.com/vi/6UzPZpQmbwg/mqdefault.jpg
 category: music
 tags: 
   - music
-  - wwe
 author: Schripp-Music
 ---
 
