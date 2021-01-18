@@ -1,6 +1,7 @@
 ---
 date: 2020-06-20 12:26:40
 layout: post
+comments: true
 title: Valorant OST - Loading [Main Theme]
 subtitle: 
 description: 
