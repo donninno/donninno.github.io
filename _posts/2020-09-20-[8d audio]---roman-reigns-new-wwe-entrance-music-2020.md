@@ -4,8 +4,9 @@ layout: post
 title: 8D Audio Empire - Roman Reigns NEW WWE Entrance Music 2020
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/vR5NQeOWnPc/sddefault.jpg
-optimized_image: https://img.youtube.com/vi/vR5NQeOWnPc/sddefault.jpg
+optimized_image: https://img.youtube.com/vi/vR5NQeOWnPc/mqdefault.jpg
+image: 
+optimized_image: https://img.youtube.com/vi/vR5NQeOWnPc/mqdefault.jpg
 category: music
 tags: 
   - music
