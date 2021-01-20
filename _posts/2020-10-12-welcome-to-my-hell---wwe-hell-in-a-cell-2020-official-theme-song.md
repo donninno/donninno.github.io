@@ -4,8 +4,8 @@ layout: post
 title: Welcome to my Hell - WWE Hell In a Cell 2020 Official Theme Song
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/dT5C2NpWe6A/0.jpg
-optimized_image: https://img.youtube.com/vi/dT5C2NpWe6A/0.jpg
+image: https://img.youtube.com/vi/dT5C2NpWe6A/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/dT5C2NpWe6A/mqdefault.jpg
 category: music
 tags: 
   - music

@@ -4,8 +4,8 @@ layout: post
 title: Empire - Roman Reigns NEW WWE Entrance Music 2020
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/n7mTsx2hDlU/0.jpg
-optimized_image: https://img.youtube.com/vi/n7mTsx2hDlU/0.jpg
+image: https://img.youtube.com/vi/n7mTsx2hDlU/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/n7mTsx2hDlU/mqdefault.jpg
 category: music
 tags: 
   - music

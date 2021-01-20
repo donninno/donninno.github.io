@@ -4,8 +4,8 @@ layout: post
 title: 8D Audio Ballers Anthem - MVP NEW WWE Entrance Music
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/GCFKTPS_-rc/hqdefault.jpg
-optimized_image: https://img.youtube.com/vi/GCFKTPS_-rc/hqdefault.jpg
+image: https://img.youtube.com/vi/GCFKTPS_-rc/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/GCFKTPS_-rc/mqdefault.jpg
 category: music
 tags: 
   - music

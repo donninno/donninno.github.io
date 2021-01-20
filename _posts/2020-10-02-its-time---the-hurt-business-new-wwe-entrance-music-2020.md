@@ -4,8 +4,8 @@ layout: post
 title: It's Time - The Hurt Business NEW WWE Entrance Music 2020
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/hftLFKs3Q40/sddefault.jpg
-optimized_image: https://img.youtube.com/vi/hftLFKs3Q40/sddefault.jpg
+image: https://img.youtube.com/vi/hftLFKs3Q40/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/hftLFKs3Q40/mqdefault.jpg
 category: music
 tags: 
   - music

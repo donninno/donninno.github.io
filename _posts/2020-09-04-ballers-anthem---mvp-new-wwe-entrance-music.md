@@ -4,8 +4,8 @@ layout: post
 title: Ballers Anthem - MVP NEW WWE Entrance Music
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/Rkv79i3KbXA/0.jpg
-optimized_image: https://img.youtube.com/vi/Rkv79i3KbXA/0.jpg
+image: https://img.youtube.com/vi/Rkv79i3KbXA/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/Rkv79i3KbXA/mqdefault.jpg
 category: music
 tags: 
   - music

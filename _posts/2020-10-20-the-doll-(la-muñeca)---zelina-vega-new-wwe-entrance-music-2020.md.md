@@ -4,8 +4,8 @@ layout: post
 title: The Doll (La Muñeca) - Zelina Vega NEW WWE Entrance Music 2020
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/9IHH-WecToQ/0.jpg
-optimized_image: https://img.youtube.com/vi/9IHH-WecToQ/0.jpg
+image: https://img.youtube.com/vi/9IHH-WecToQ/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/9IHH-WecToQ/maxresdefault.jpg
 category: music
 tags: 
   - music

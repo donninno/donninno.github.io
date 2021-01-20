@@ -4,8 +4,8 @@ layout: post
 title: War Ready - Bronson Reed NEW WWE Entrance Music
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/aDb4UTiIuq8/0.jpg
-optimized_image: https://img.youtube.com/vi/aDb4UTiIuq8/0.jpg
+image: https://img.youtube.com/vi/aDb4UTiIuq8/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/aDb4UTiIuq8/mqdefault.jpg
 category: music
 tags: 
   - music

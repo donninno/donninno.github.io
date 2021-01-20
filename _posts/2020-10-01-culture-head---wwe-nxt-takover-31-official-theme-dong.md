@@ -4,8 +4,8 @@ layout: post
 title: Culture Head - WWE NXT TakeOver 31 Official Theme Song
 subtitle: 
 description: 
-image: https://img.youtube.com/vi/kB5VA148Qso/sddefault.jpg
-optimized_image: https://img.youtube.com/vi/kB5VA148Qso/sddefault.jpg
+image: https://img.youtube.com/vi/kB5VA148Qso/mqdefault.jpg
+optimized_image: https://img.youtube.com/vi/kB5VA148Qso/mqdefault.jpg
 category: music
 tags: 
   - music
