@@ -10,6 +10,7 @@ category: music
 tags: 
   - music
   - wwe
+  - ppv
 author: Schripp-Music
 ---
 
