@@ -2,7 +2,7 @@
 ---
 date: 2020-12-06 12:26:40
 layout: post
-title: [8D Audio] Arrival - Sting NEW AEW Entrance Music 2020
+title: 8D Audio Arrival - Sting NEW AEW Entrance Music 2020
 subtitle:
 description:
 image: https://img.youtube.com/vi/7jbLJ1znsqs/maxresdefault.jpg
