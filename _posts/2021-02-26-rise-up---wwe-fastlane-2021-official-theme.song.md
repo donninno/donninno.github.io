@@ -1,7 +1,7 @@
 ---
 date: 2021-02-26 12:26:40
 layout: post
-title: And So It Went - WWE Elimination Chamber 2021 Official Theme Song
+title: Rise Up - WWE Fastlane 2021 Official Theme Song
 subtitle:
 description:
 image: https://img.youtube.com/vi/-hxepX6eq7w/maxresdefault.jpg
