@@ -4,8 +4,8 @@ layout: post
 title: Rise From The Ashes - Ember Moon NEW WWE Entrance Music 2021
 subtitle:
 description:
-image: https://img.youtube.com/vi/W4ru3WwtFLQ/mqdefault.jpg
-optimized_image: https://img.youtube.com/vi/W4ru3WwtFLQ/mqdefault.jpg
+image: https://img.youtube.com/vi/W4ru3WwtFLQ/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/W4ru3WwtFLQ/maxresdefault.jpg
 category: music
 tags:
   - music
