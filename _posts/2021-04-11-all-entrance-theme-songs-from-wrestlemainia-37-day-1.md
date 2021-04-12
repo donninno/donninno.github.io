@@ -4,7 +4,7 @@ layout: post
 title: All Entrance Theme Songs from Wrestlemania 37 Day 1
 subtitle:
 description:
-image: hhttps://img.youtube.com/vi/YR1GiUUqCGc/maxresdefault.jpg
+image: https://img.youtube.com/vi/YR1GiUUqCGc/maxresdefault.jpg
 optimized_image: https://img.youtube.com/vi/YR1GiUUqCGc/maxresdefault.jpg
 category: music
 tags:
