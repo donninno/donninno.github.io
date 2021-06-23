@@ -4,8 +4,8 @@ layout: post
 title: Straight To Hell - WWE Hell In a Cell 2021 Official Theme Song
 subtitle:
 description:
-image: https://imgur.com/3JA5Os1
-optimized_image: https://imgur.com/3JA5Os1
+image: https://i.imgur.com/3JA5Os1.png
+optimized_image: https://i.imgur.com/3JA5Os1.png
 category: music
 tags:
   - music
