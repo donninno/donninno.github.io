@@ -4,8 +4,8 @@ layout: post
 title: Gotta Get That - WWE Money In The Bank 2021 Official Theme Song
 subtitle:
 description:
-image: https://img.youtube.com/vi/bEjE3Kh7xGo/0.jpg
-optimized_image: https://img.youtube.com/vi/bEjE3Kh7xGo/0.jpg
+image: https://i.imgur.com/E2iBpJg.png
+optimized_image: https://i.imgur.com/E2iBpJg.png
 category: music
 tags:
   - music
