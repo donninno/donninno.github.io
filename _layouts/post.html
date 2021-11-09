@@ -2,7 +2,6 @@
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
     <body class="has-push-menu">
-        {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
 
@@ -15,7 +14,6 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
@@ -36,7 +34,7 @@
 
             {% if site.two_columns_layout %}
                 <aside class="see-also">
-                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    <h2>{{ site.translations.text.see_also | default: "" }}</h2>
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
@@ -78,8 +76,6 @@
 
         {% include subscription.html %}
         {% include share.html %}
-        {% include author.html %}
-        {% include comments.html %}
         {% include footer.html %}
 
         {% assign author = site.authors | where: "name", post.author | first %}
