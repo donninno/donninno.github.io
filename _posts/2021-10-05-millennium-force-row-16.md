@@ -9,7 +9,7 @@ image: >-
   https://img.youtube.com/vi/9XSrBcirAfs/maxresdefault.jpg
 optimized_image: >-
   https://img.youtube.com/vi/9XSrBcirAfs/maxresdefault.jpg
-category: blog
+category: Onride
 tags:
   - Cedar Point 
 author: RCOD
