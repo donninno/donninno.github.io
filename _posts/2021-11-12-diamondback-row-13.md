@@ -4,8 +4,8 @@ layout: post
 title: Diamondback Row 13
 subtitle:
 description:
-image:
-optimized_image:
+image: https://img.youtube.com/vi/es_U21CcdfM/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/es_U21CcdfM/maxresdefault.jpg
 category: Onride
 tags: 
  - Kings Island
