@@ -9,7 +9,7 @@ optimized_image: https://img.youtube.com/vi/OCaA9ONVd0g/maxresdefault.jpg
 category: Onride
 tags:
  - Hersheypark
-author: RCODA
+author: RCOD
 paginate: false
 ---
 
