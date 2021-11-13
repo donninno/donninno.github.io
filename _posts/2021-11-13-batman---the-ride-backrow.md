@@ -4,8 +4,8 @@ layout: post
 title: "Batman - The Ride Backrow"
 subtitle:
 description:
-image: https://img.youtube.com/vi/Twcico2FcbI/hqdefault.jpg
-optimized_image: https://img.youtube.com/vi/Twcico2FcbI/hqdefault.jpg
+image: https://img.youtube.com/vi/Twcico2FcbI/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/Twcico2FcbI/maxresdefault.jpg
 category: Onride
 tags:
  - Six Flags Over Georgia

@@ -4,8 +4,8 @@ layout: post
 title: "Raptor Backrow"
 subtitle:
 description:
-image: https://img.youtube.com/vi/rrfROE4VAhk/0.jpg
-optimized_image: https://img.youtube.com/vi/rrfROE4VAhk/0.jpg
+image: https://img.youtube.com/vi/rrfROE4VAhk/maxresdefault.jpg
+optimized_image: https://img.youtube.com/vi/rrfROE4VAhk/maxresdefault.jpg
 category: Onride
 tags:
  - Cedar Point
